@@ -1,11 +1,10 @@
+
 # Bernardo Cruz's Protfolio
 
 I am a computer science major at CSUF and I'm graduating in the year 2028
 
 
 ## Favorite CPSC 120L Labs
-
-
 
 Lab 5 Part 1: 
 I liked learning more on how to use cout and cin for numbers and calculating answers with the use of them both. Though it was simple coding to do, it was very nice to know the basics of taking inputs from the user and making them into outputs of your choosing based on what you code.
